@@ -1,5 +1,5 @@
 //
-//  PARAppDelegate.h
+//  PARView.h
 //  Parallax
 //
 //  Created by Leonhard Lichtschlag on 15/Jul/13.
@@ -9,10 +9,11 @@
 #import <UIKit/UIKit.h>
 
 // ===============================================================================================================
-@interface PARAppDelegate : UIResponder <UIApplicationDelegate>
+@interface PARView : UIView
 // ===============================================================================================================
 
-@property (strong, nonatomic) UIWindow *window;
+@property (assign) float xEffect;
+@property (assign) float yEffect;
+
 
 @end
-
