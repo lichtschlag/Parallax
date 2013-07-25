@@ -15,24 +15,19 @@
 		3F73BAA0179427D500AB6756 /* PARAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F73BA9F179427D500AB6756 /* PARAppDelegate.m */; };
 		3F73BAA3179427D500AB6756 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F73BAA1179427D500AB6756 /* Main.storyboard */; };
 		3F73BAA6179427D500AB6756 /* PARViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F73BAA5179427D500AB6756 /* PARViewController.m */; };
-		3F73BAA8179427D500AB6756 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F73BAA7179427D500AB6756 /* Images.xcassets */; };
-		3F73BAAF179427D500AB6756 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F73BAAE179427D500AB6756 /* XCTest.framework */; };
-		3F73BAB0179427D500AB6756 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F73BA8F179427D500AB6756 /* Foundation.framework */; };
-		3F73BAB1179427D500AB6756 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F73BA93179427D500AB6756 /* UIKit.framework */; };
-		3F73BAB9179427D500AB6756 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3F73BAB7179427D500AB6756 /* InfoPlist.strings */; };
-		3F73BABB179427D500AB6756 /* ParallaxTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F73BABA179427D500AB6756 /* ParallaxTests.m */; };
 		3F73BAC7179430E500AB6756 /* PARView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F73BAC617942F6300AB6756 /* PARView.m */; };
+		3FB44A1F17A160540046C4F9 /* Icon-76.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FB44A1517A160540046C4F9 /* Icon-76.png */; };
+		3FB44A2017A160540046C4F9 /* Icon-76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FB44A1617A160540046C4F9 /* Icon-76@2x.png */; };
+		3FB44A2117A160540046C4F9 /* Icon-Small-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FB44A1717A160540046C4F9 /* Icon-Small-50.png */; };
+		3FB44A2217A160540046C4F9 /* Icon-Small-50@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FB44A1817A160540046C4F9 /* Icon-Small-50@2x.png */; };
+		3FB44A2317A160540046C4F9 /* Icon-Small.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FB44A1917A160540046C4F9 /* Icon-Small.png */; };
+		3FB44A2417A160540046C4F9 /* Icon-Small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FB44A1A17A160540046C4F9 /* Icon-Small@2x.png */; };
+		3FB44A2517A160540046C4F9 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FB44A1B17A160540046C4F9 /* Icon.png */; };
+		3FB44A2617A160540046C4F9 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FB44A1C17A160540046C4F9 /* Icon@2x.png */; };
+		3FB44A2717A160540046C4F9 /* iTunesArtwork.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FB44A1D17A160540046C4F9 /* iTunesArtwork.png */; };
+		3FB44A2817A160540046C4F9 /* iTunesArtwork@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FB44A1E17A160540046C4F9 /* iTunesArtwork@2x.png */; };
+		3FB44A2A17A160880046C4F9 /* readme.markdown in Resources */ = {isa = PBXBuildFile; fileRef = 3FB44A2917A160880046C4F9 /* readme.markdown */; };
 /* End PBXBuildFile section */
-
-/* Begin PBXContainerItemProxy section */
-		3F73BAB2179427D500AB6756 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 3F73BA84179427D500AB6756 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 3F73BA8B179427D500AB6756;
-			remoteInfo = Parallax;
-		};
-/* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		3F73BA8C179427D500AB6756 /* Parallax.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Parallax.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -48,14 +43,20 @@
 		3F73BAA2179427D500AB6756 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		3F73BAA4179427D500AB6756 /* PARViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PARViewController.h; sourceTree = "<group>"; };
 		3F73BAA5179427D500AB6756 /* PARViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PARViewController.m; sourceTree = "<group>"; };
-		3F73BAA7179427D500AB6756 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		3F73BAAD179427D500AB6756 /* ParallaxTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ParallaxTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F73BAAE179427D500AB6756 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		3F73BAB6179427D500AB6756 /* ParallaxTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ParallaxTests-Info.plist"; sourceTree = "<group>"; };
-		3F73BAB8179427D500AB6756 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		3F73BABA179427D500AB6756 /* ParallaxTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ParallaxTests.m; sourceTree = "<group>"; };
 		3F73BAC517942F6300AB6756 /* PARView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PARView.h; sourceTree = "<group>"; };
 		3F73BAC617942F6300AB6756 /* PARView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PARView.m; sourceTree = "<group>"; };
+		3FB44A1517A160540046C4F9 /* Icon-76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-76.png"; sourceTree = "<group>"; };
+		3FB44A1617A160540046C4F9 /* Icon-76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-76@2x.png"; sourceTree = "<group>"; };
+		3FB44A1717A160540046C4F9 /* Icon-Small-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small-50.png"; sourceTree = "<group>"; };
+		3FB44A1817A160540046C4F9 /* Icon-Small-50@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small-50@2x.png"; sourceTree = "<group>"; };
+		3FB44A1917A160540046C4F9 /* Icon-Small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small.png"; sourceTree = "<group>"; };
+		3FB44A1A17A160540046C4F9 /* Icon-Small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small@2x.png"; sourceTree = "<group>"; };
+		3FB44A1B17A160540046C4F9 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		3FB44A1C17A160540046C4F9 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
+		3FB44A1D17A160540046C4F9 /* iTunesArtwork.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iTunesArtwork.png; sourceTree = "<group>"; };
+		3FB44A1E17A160540046C4F9 /* iTunesArtwork@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iTunesArtwork@2x.png"; sourceTree = "<group>"; };
+		3FB44A2917A160880046C4F9 /* readme.markdown */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = readme.markdown; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,26 +70,16 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		3F73BAAA179427D500AB6756 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				3F73BAAF179427D500AB6756 /* XCTest.framework in Frameworks */,
-				3F73BAB1179427D500AB6756 /* UIKit.framework in Frameworks */,
-				3F73BAB0179427D500AB6756 /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
 		3F73BA83179427D500AB6756 = {
 			isa = PBXGroup;
 			children = (
+				3FB44A2917A160880046C4F9 /* readme.markdown */,
 				3F73BA95179427D500AB6756 /* App Core */,
 				3F73BA96179427D500AB6756 /* Scene */,
 				3F73BAC41794281B00AB6756 /* Resources */,
-				3F73BAB4179427D500AB6756 /* ParallaxTests */,
 				3F73BA8E179427D500AB6756 /* Frameworks */,
 				3F73BA8D179427D500AB6756 /* Products */,
 			);
@@ -98,7 +89,6 @@
 			isa = PBXGroup;
 			children = (
 				3F73BA8C179427D500AB6756 /* Parallax.app */,
-				3F73BAAD179427D500AB6756 /* ParallaxTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -141,32 +131,32 @@
 			path = Parallax;
 			sourceTree = "<group>";
 		};
-		3F73BAB4179427D500AB6756 /* ParallaxTests */ = {
-			isa = PBXGroup;
-			children = (
-				3F73BABA179427D500AB6756 /* ParallaxTests.m */,
-				3F73BAB5179427D500AB6756 /* Supporting Files */,
-			);
-			path = ParallaxTests;
-			sourceTree = "<group>";
-		};
-		3F73BAB5179427D500AB6756 /* Supporting Files */ = {
-			isa = PBXGroup;
-			children = (
-				3F73BAB6179427D500AB6756 /* ParallaxTests-Info.plist */,
-				3F73BAB7179427D500AB6756 /* InfoPlist.strings */,
-			);
-			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
 		3F73BAC41794281B00AB6756 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				3F73BAA7179427D500AB6756 /* Images.xcassets */,
+				3FB44A1417A160540046C4F9 /* App Icon */,
 			);
 			name = Resources;
 			path = Parallax;
 			sourceTree = "<group>";
+		};
+		3FB44A1417A160540046C4F9 /* App Icon */ = {
+			isa = PBXGroup;
+			children = (
+				3FB44A1517A160540046C4F9 /* Icon-76.png */,
+				3FB44A1617A160540046C4F9 /* Icon-76@2x.png */,
+				3FB44A1717A160540046C4F9 /* Icon-Small-50.png */,
+				3FB44A1817A160540046C4F9 /* Icon-Small-50@2x.png */,
+				3FB44A1917A160540046C4F9 /* Icon-Small.png */,
+				3FB44A1A17A160540046C4F9 /* Icon-Small@2x.png */,
+				3FB44A1B17A160540046C4F9 /* Icon.png */,
+				3FB44A1C17A160540046C4F9 /* Icon@2x.png */,
+				3FB44A1D17A160540046C4F9 /* iTunesArtwork.png */,
+				3FB44A1E17A160540046C4F9 /* iTunesArtwork@2x.png */,
+			);
+			name = "App Icon";
+			path = "Helper Files/App Icon";
+			sourceTree = SOURCE_ROOT;
 		};
 /* End PBXGroup section */
 
@@ -188,24 +178,6 @@
 			productReference = 3F73BA8C179427D500AB6756 /* Parallax.app */;
 			productType = "com.apple.product-type.application";
 		};
-		3F73BAAC179427D500AB6756 /* ParallaxTests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 3F73BAC1179427D500AB6756 /* Build configuration list for PBXNativeTarget "ParallaxTests" */;
-			buildPhases = (
-				3F73BAA9179427D500AB6756 /* Sources */,
-				3F73BAAA179427D500AB6756 /* Frameworks */,
-				3F73BAAB179427D500AB6756 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				3F73BAB3179427D500AB6756 /* PBXTargetDependency */,
-			);
-			name = ParallaxTests;
-			productName = ParallaxTests;
-			productReference = 3F73BAAD179427D500AB6756 /* ParallaxTests.xctest */;
-			productType = "com.apple.product-type.bundle.unit-test";
-		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -218,9 +190,6 @@
 				TargetAttributes = {
 					3F73BA8B179427D500AB6756 = {
 						DevelopmentTeam = W88773838E;
-					};
-					3F73BAAC179427D500AB6756 = {
-						TestTargetID = 3F73BA8B179427D500AB6756;
 					};
 				};
 			};
@@ -238,7 +207,6 @@
 			projectRoot = "";
 			targets = (
 				3F73BA8B179427D500AB6756 /* Parallax */,
-				3F73BAAC179427D500AB6756 /* ParallaxTests */,
 			);
 		};
 /* End PBXProject section */
@@ -248,17 +216,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3F73BAA8179427D500AB6756 /* Images.xcassets in Resources */,
+				3FB44A2517A160540046C4F9 /* Icon.png in Resources */,
+				3FB44A2217A160540046C4F9 /* Icon-Small-50@2x.png in Resources */,
+				3FB44A2A17A160880046C4F9 /* readme.markdown in Resources */,
+				3FB44A2317A160540046C4F9 /* Icon-Small.png in Resources */,
 				3F73BA9A179427D500AB6756 /* InfoPlist.strings in Resources */,
 				3F73BAA3179427D500AB6756 /* Main.storyboard in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		3F73BAAB179427D500AB6756 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				3F73BAB9179427D500AB6756 /* InfoPlist.strings in Resources */,
+				3FB44A2117A160540046C4F9 /* Icon-Small-50.png in Resources */,
+				3FB44A2717A160540046C4F9 /* iTunesArtwork.png in Resources */,
+				3FB44A2817A160540046C4F9 /* iTunesArtwork@2x.png in Resources */,
+				3FB44A2417A160540046C4F9 /* Icon-Small@2x.png in Resources */,
+				3FB44A2017A160540046C4F9 /* Icon-76@2x.png in Resources */,
+				3FB44A1F17A160540046C4F9 /* Icon-76.png in Resources */,
+				3FB44A2617A160540046C4F9 /* Icon@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -276,23 +246,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		3F73BAA9179427D500AB6756 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				3F73BABB179427D500AB6756 /* ParallaxTests.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXTargetDependency section */
-		3F73BAB3179427D500AB6756 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 3F73BA8B179427D500AB6756 /* Parallax */;
-			targetProxy = 3F73BAB2179427D500AB6756 /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
 		3F73BA98179427D500AB6756 /* InfoPlist.strings */ = {
@@ -309,14 +263,6 @@
 				3F73BAA2179427D500AB6756 /* Base */,
 			);
 			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		3F73BAB7179427D500AB6756 /* InfoPlist.strings */ = {
-			isa = PBXVariantGroup;
-			children = (
-				3F73BAB8179427D500AB6756 /* en */,
-			);
-			name = InfoPlist.strings;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -420,46 +366,6 @@
 			};
 			name = Release;
 		};
-		3F73BAC2179427D500AB6756 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Parallax.app/Parallax";
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(SDKROOT)/Developer/Library/Frameworks",
-					"$(inherited)",
-					"$(SYSTEM_APPS_DIR)/Xcode5-DP3.app/Contents/Developer/Library/Frameworks",
-				);
-				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "Parallax/Parallax-Prefix.pch";
-				GCC_PREPROCESSOR_DEFINITIONS = (
-					"DEBUG=1",
-					"$(inherited)",
-				);
-				INFOPLIST_FILE = "ParallaxTests/ParallaxTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUNDLE_LOADER)";
-				WRAPPER_EXTENSION = xctest;
-			};
-			name = Debug;
-		};
-		3F73BAC3179427D500AB6756 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Parallax.app/Parallax";
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(SDKROOT)/Developer/Library/Frameworks",
-					"$(inherited)",
-					"$(SYSTEM_APPS_DIR)/Xcode5-DP3.app/Contents/Developer/Library/Frameworks",
-				);
-				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "Parallax/Parallax-Prefix.pch";
-				INFOPLIST_FILE = "ParallaxTests/ParallaxTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUNDLE_LOADER)";
-				WRAPPER_EXTENSION = xctest;
-			};
-			name = Release;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -479,14 +385,7 @@
 				3F73BAC0179427D500AB6756 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-		};
-		3F73BAC1179427D500AB6756 /* Build configuration list for PBXNativeTarget "ParallaxTests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				3F73BAC2179427D500AB6756 /* Debug */,
-				3F73BAC3179427D500AB6756 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
